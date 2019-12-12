@@ -7,9 +7,8 @@ body {
   position: fixed;
   z-index: -1;
   width: 100%;
-  background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto;
 }
 
 p {
