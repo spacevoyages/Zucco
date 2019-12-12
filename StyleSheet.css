@@ -11,7 +11,7 @@ body {
   background-size: auto;
 }
 
-p {
+p span {
   background-color: #fff1f0;
   margin: 35px
   padding: 10px
